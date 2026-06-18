@@ -18,7 +18,7 @@ Interested in financial infrastructure, data pipelines, process automation and c
 
 ---
 
-## Current
+## Now
 
 → Finished DAM @ IES Infanta Elena  
 → Starting ADE @ Universidad de Murcia — Sept 2026  
@@ -31,7 +31,6 @@ Interested in financial infrastructure, data pipelines, process automation and c
 → Data Engineering  
 → Process Automation  
 → Financial Analysis  
-→ Corporate Finance  
 → Internal Tools & Infrastructure
 
 ---
@@ -55,7 +54,7 @@ https://santiperez.vercel.app
 ### Notas TUI
 Terminal-based academic management system.
 
-**Tech:** Python · SQLite · TUI
+**Tech:** Java · TUI
 
 https://github.com/iPiiix/notas
 
@@ -78,21 +77,11 @@ https://github.com/iPiiix/notas
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iPiiix&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPiiix&layout=compact&hide_border=true)
-
----
-
 ## Reach
 
-https://santiperez.vercel.app
+ - https://santiperez.vercel.app
 
-https://linkedin.com/in/santiago-perez-guerrero
-
-Murcia, Spain
+ - https://linkedin.com/in/santiago-perez-guerrero
 
 ---
 
