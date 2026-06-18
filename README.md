@@ -35,28 +35,13 @@ Interested in financial infrastructure, data pipelines, process automation and c
 
 ---
 
-## Selected Projects
+## Projects
 
-### Inventario Municipal
-Asset management platform developed for local government.
-
-**Tech:** FastAPI · MySQL · JavaScript · RBAC · Security Auditing
-
-https://archivo.abanilla.es/
-
-### FinTrack
-Personal finance and portfolio analytics platform.
-
-**Tech:** Python · PostgreSQL · Next.js
-
-https://santiperez.vercel.app
-
-### Notas TUI
-Terminal-based academic management system.
-
-**Tech:** Java · TUI
-
-https://github.com/iPiiix/notas
+| Project | Description |
+|----------|------------|
+| **Inventario Municipal** | Asset management platform for local government |
+| **FinTrack** | Personal finance and portfolio analytics |
+| **Notas TUI** | Terminal-based academic management system |
 
 ---
 
