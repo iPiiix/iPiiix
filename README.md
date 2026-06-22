@@ -15,7 +15,7 @@ DAM → ADE · Building at the intersection of data and corporate finance.
 
 ## projects
 
-[**InventarioMunicipalWeb**](archivo.abanilla.es) — institutional document platform · FastAPI · MySQL · OWASP  
+[**InventarioMunicipalWeb**](https://archivo.abanilla.es) — institutional document platform · FastAPI · MySQL · OWASP  
 [**FinTrack**](https://github.com/iPiiix/FinTrack) — personal wealth OS · FastAPI · PostgreSQL · AES-256  
 [**notas**](https://github.com/iPiiix/notas) — TUI note-taking app · Java · Lanterna · zero dependencies  
 [**MacroMate**](https://github.com/iPiiix/MacroMate) - 
