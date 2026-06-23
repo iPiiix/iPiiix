@@ -16,9 +16,9 @@ DAM → ADE · Building at the intersection of data and corporate finance.
 ## projects
 
 [**InventarioMunicipalWeb**](https://archivo.abanilla.es) — institutional document platform · FastAPI · MySQL · OWASP  
-[**FinTrack**](https://github.com/iPiiix/FinTrack) — personal wealth OS · FastAPI · PostgreSQL · AES-256  
+[**FinTrack**](https://fin-track-tan-alpha.vercel.app/) — personal wealth OS · FastAPI · PostgreSQL · AES-256  
 [**MacroMate**](https://github.com/iPiiix/MacroMate) — nutrition & macro tracker · Django · Next.js  
-[**portfolio-systems**](https://github.com/iPiiix/portfolio-systems) — personal portfolio platform · Next.js  
+[**portfolio-systems**](santiperez.vercel.app) — personal portfolio platform · Next.js  
 [**notas**](https://github.com/iPiiix/notas) — TUI note-taking app · Java · Lanterna · zero dependencies  
 
 ---
