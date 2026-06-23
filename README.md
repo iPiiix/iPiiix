@@ -17,8 +17,9 @@ DAM → ADE · Building at the intersection of data and corporate finance.
 
 [**InventarioMunicipalWeb**](https://archivo.abanilla.es) — institutional document platform · FastAPI · MySQL · OWASP  
 [**FinTrack**](https://github.com/iPiiix/FinTrack) — personal wealth OS · FastAPI · PostgreSQL · AES-256  
+[**MacroMate**](https://github.com/iPiiix/MacroMate) — nutrition & macro tracker · Django · Next.js  
+[**portfolio-systems**](https://github.com/iPiiix/portfolio-systems) — personal portfolio platform · Next.js  
 [**notas**](https://github.com/iPiiix/notas) — TUI note-taking app · Java · Lanterna · zero dependencies  
-[**MacroMate**](https://github.com/iPiiix/MacroMate) - 
 
 ---
 
@@ -27,6 +28,7 @@ DAM → ADE · Building at the intersection of data and corporate finance.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
